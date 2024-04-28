@@ -1,1 +1,3 @@
-Assume there is issue in sub.cs
+-int c = a - b;
++int d = a - b;
+
